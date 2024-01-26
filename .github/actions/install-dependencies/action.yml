@@ -7,6 +7,18 @@ runs:
     - name: Install node and npm via volta
       uses: volta-cli/action@v4
 
+    - name: Get node version
+      id: get-node-version
+      run: |
+        echo "node_version=$(node --version)" >> $GITHUB_OUTPUT
+      shell: bash
+
+    - name: Use setup-node action to make npm authentication easier
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ steps.get-node-version.outputs.node_version }}
+        registry-url: https://registry.npmjs.org/
+
     - name: Install dependencies
       run: npm install
       shell: bash
