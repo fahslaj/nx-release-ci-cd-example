@@ -1,11 +1,11 @@
 {
   "name": "@fahslaj/nx-release-ci-cd-example-js-client",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "test": "node index.js"
   },
   "dependencies": {
-    "@fahslaj/nx-release-ci-cd-example-data-access": "0.0.0",
-    "@fahslaj/nx-release-ci-cd-example-request-submission": "0.0.0"
+    "@fahslaj/nx-release-ci-cd-example-data-access": "0.0.1",
+    "@fahslaj/nx-release-ci-cd-example-request-submission": "0.0.1"
   }
 }
