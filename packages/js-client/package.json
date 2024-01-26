@@ -1,6 +1,6 @@
 {
   "name": "@fahslaj/nx-release-ci-cd-example-js-client",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An example package published with Nx Release.",
   "author": "Austin Fahsl <austin@fahsl.io>",
   "homepage": "https://github.com/fahslaj/nx-release-ci-cd-example#readme",
@@ -21,7 +21,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@fahslaj/nx-release-ci-cd-example-data-access": "0.0.3",
-    "@fahslaj/nx-release-ci-cd-example-request-submission": "0.0.3"
+    "@fahslaj/nx-release-ci-cd-example-data-access": "0.0.4",
+    "@fahslaj/nx-release-ci-cd-example-request-submission": "0.0.4"
   }
 }
