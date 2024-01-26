@@ -1,6 +1,17 @@
 {
   "name": "@fahslaj/nx-release-ci-cd-example-data-access",
   "version": "0.0.1",
+  "description": "An example package published with Nx Release.",
+  "author": "Austin Fahsl <austin@fahsl.io>",
+  "homepage": "https://github.com/fahslaj/nx-release-ci-cd-example#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahslaj/nx-release-ci-cd-example.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node index.js"
   }
