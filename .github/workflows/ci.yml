@@ -26,7 +26,7 @@ jobs:
         shell: bash
 
       - name: Run Tests
-        run: npx nx affected:test --all
+        run: npx nx run-many -t test --all
         shell: bash
 
   lint:
@@ -47,5 +47,5 @@ jobs:
         shell: bash
 
       - name: Lint Projects
-        run: npx nx affected:lint --all
+        run: npx nx run-many -t lint --all
         shell: bash
