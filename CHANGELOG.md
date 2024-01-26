@@ -1,3 +1,23 @@
+## 0.0.5 (2024-01-26)
+
+
+### 🚀 Features
+
+- **data-access:** cool new feature ([2c59b52](https://github.com/fahslaj/nx-release-ci-cd-example/commit/2c59b52))
+
+### 🩹 Fixes
+
+- ⚠️  **js-client:** breaking change! ([98730b2](https://github.com/fahslaj/nx-release-ci-cd-example/commit/98730b2))
+- **request-submission:** important bug fix ([06dc76a](https://github.com/fahslaj/nx-release-ci-cd-example/commit/06dc76a))
+
+#### ⚠️  Breaking Changes
+
+- ⚠️  **js-client:** breaking change! ([98730b2](https://github.com/fahslaj/nx-release-ci-cd-example/commit/98730b2))
+
+### ❤️  Thank You
+
+- Austin Fahsl @fahslaj
+
 ## 0.0.4 (2024-01-26)
 
 This was a version bump only, there were no code changes.
