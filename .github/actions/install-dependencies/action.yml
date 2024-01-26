@@ -8,5 +8,5 @@ runs:
       uses: volta-cli/action@v4
 
     - name: Install dependencies
-      run: npm ci
+      run: npm install
       shell: bash
