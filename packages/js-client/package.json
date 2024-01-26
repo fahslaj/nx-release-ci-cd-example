@@ -13,8 +13,10 @@
     "access": "public"
   },
   "files": [
-    "!__tests__"
-  ],  "scripts": {
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
     "lint": "eslint .",
     "test": "jest"
   },
