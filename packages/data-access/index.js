@@ -1,1 +1,3 @@
-console.log('Hello World');
+module.exports = function dataAccess() {
+  return "dataAccess";
+};

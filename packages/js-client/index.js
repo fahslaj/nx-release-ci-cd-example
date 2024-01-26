@@ -1,1 +1,3 @@
-console.log('Hello World');
+module.exports = function jsClient() {
+  return "jsClient";
+};

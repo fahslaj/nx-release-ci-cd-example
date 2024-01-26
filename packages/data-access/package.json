@@ -12,7 +12,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "!__tests__"
+  ],
   "scripts": {
-    "test": "node index.js"
+    "test": "jest"
   }
 }

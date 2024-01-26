@@ -12,8 +12,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "!__tests__"
+  ],
   "scripts": {
-    "test": "node index.js"
+    "test": "jest"
   },
   "dependencies": {
     "@fahslaj/nx-release-ci-cd-example-data-access": "0.0.1",
