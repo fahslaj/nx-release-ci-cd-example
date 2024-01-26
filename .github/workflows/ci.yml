@@ -28,9 +28,6 @@ jobs:
         run: npm install
         shell: bash
 
-      - name: Install node, npm, and dependencies
-        uses: ./.github/actions/install-dependencies
-
       - name: Print Environment Info
         run: npx nx report
         shell: bash
