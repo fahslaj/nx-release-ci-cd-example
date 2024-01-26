@@ -1,9 +1,9 @@
 {
   "name": "@nx-release-ci-cd-example/source",
-  "version": "0.0.0",
-  "license": "MIT",
-  "scripts": {},
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "@nx/js": "17.3.0-rc.0",
     "@nx/workspace": "17.3.0-rc.0",
