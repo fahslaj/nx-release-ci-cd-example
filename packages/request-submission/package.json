@@ -1,6 +1,6 @@
 {
   "name": "@fahslaj/nx-release-ci-cd-example-request-submission",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An example package published with Nx Release.",
   "author": "Austin Fahsl <austin@fahsl.io>",
   "homepage": "https://github.com/fahslaj/nx-release-ci-cd-example#readme",
@@ -21,6 +21,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "@fahslaj/nx-release-ci-cd-example-data-access": "0.0.2"
+    "@fahslaj/nx-release-ci-cd-example-data-access": "0.0.3"
   }
 }
