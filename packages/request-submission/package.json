@@ -1,0 +1,10 @@
+{
+  "name": "@fahslaj/nx-release-ci-cd-example-request-submission",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@fahslaj/nx-release-ci-cd-example-data-access": "0.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@fahslaj/nx-release-ci-cd-example-data-access",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
