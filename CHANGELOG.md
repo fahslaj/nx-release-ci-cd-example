@@ -1,3 +1,14 @@
+## 0.0.9 (2024-01-29)
+
+
+### 🚀 Features
+
+- **data-access:** sleek api ([1615bca](https://github.com/fahslaj/nx-release-ci-cd-example/commit/1615bca))
+
+### ❤️  Thank You
+
+- Austin Fahsl @fahslaj
+
 ## 0.0.8 (2024-01-29)
 
 This was a version bump only, there were no code changes.
