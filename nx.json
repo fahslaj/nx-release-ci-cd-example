@@ -2,7 +2,7 @@
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "release": {
     "changelog": {
-      "projectChangelogs": {
+      "workspaceChangelog": {
         "createRelease": "github"
       }
     }
