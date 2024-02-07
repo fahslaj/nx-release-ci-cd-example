@@ -1,6 +1,6 @@
 {
   "name": "@fahslaj/nx-release-ci-cd-example-data-access",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "An example package published with Nx Release.",
   "author": "Austin Fahsl <austin@fahsl.io>",
   "homepage": "https://github.com/fahslaj/nx-release-ci-cd-example#readme",
