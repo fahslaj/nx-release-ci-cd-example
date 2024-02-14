@@ -5,10 +5,11 @@
     "packages/*"
   ],
   "devDependencies": {
-    "@nx/js": "17.3.0-rc.0",
-    "@nx/workspace": "17.3.0-rc.0",
+    "@nx/js": "18.1.0-canary.20240214-b625a79",
+    "@nx/workspace": "18.1.0-canary.20240214-b625a79",
     "eslint": "8.56.0",
     "jest": "29.7.0",
-    "nx": "17.3.0-rc.0"
+    "nx": "18.1.0-canary.20240214-b625a79"
   }
 }
+
